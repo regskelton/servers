@@ -1,139 +1,207 @@
-<!-- .element: data-background-image="./servers-pilot.png" -->
+Below is a **pilot episode script** for a serial tech-drama in the style of *House*, starring your “guru diagnostician” **Richter Dixon**—the impossibly fast typer, faster thinker, and even faster talker.
 
-# **Pilot Episode --- "The First Boot"**
+If you'd like a full teleplay format, character sheet, or follow-up episodes, I can expand it!
 
-**Starring Richter Dixon**
+---
+
+# **Pilot Episode — “The First Boot”**
+
+*Serial Tech Drama — Episode 1*
 
 ## **COLD OPEN**
 
-**INT. TECHOPS WAR ROOM -- NIGHT**
+**INT. TECHOPS WAR ROOM – NIGHT**
 
-Rows of monitors glow. Alarms flash. Engineers scramble.
+Rows of monitors glow. Alarms flash red. A dozen engineers scramble.
 
-**LEAD ENGINEER**\
-Production's collapsing! The customer queue is doubling every thirty
-seconds!
+**LEAD ENGINEER**
+(shouting)
+Production’s collapsing! The customer queue is doubling every thirty seconds!
 
-The door SLAMS open.
+Everyone freezes when the door SLAMS open.
 
-Enter **RICHTER DIXON (40s)**---hoodie, wild hair, eyes sharp, fingers
-twitching like they're already typing.
+Enter **Richter Dixon (40s)**—scruffy hoodie, untied sneakers, fingers drumming an imaginary keyboard midair. He walks fast; talks faster.
 
-**RICHTER**\
-Alright---who broke what, why, when, and at what velocity? And if you
-say "we don't know," congratulations on achieving enlightenment.\
+**RICHTER**
+Alright, who broke what, when, why, and how hard? If the answer’s “we don’t know,” congrats—you’ve achieved total enlightenment.
+
+(beat)
 Move.
 
-He drops into the main chair. His typing is a blur.
+Richter drops into the main chair. The keyboard is *a blur*.
 
-------------------------------------------------------------------------
+TITLE SEQUENCE.
 
-## **ACT I**
+---
 
-**INT. IT WAR ROOM -- SAME NIGHT**
+# **ACT I**
 
-**RICHTER**\
-We're losing servers like socks in a public laundromat. Symptoms---go.
+**INT. IT WAR ROOM – SAME NIGHT**
 
-**ENGINEER #1**\
-Random hangs. CPU spikes. Maybe a deadlock?
+**RICHTER**
+We’re losing servers like toddlers lose socks in a dryer. Symptoms?
 
-**RICHTER**\
-"Maybe" is for dating apps. Next.
+**ENGINEER #1**
+Random hangs. CPU spikes. Some kind of deadlock?
 
-**ENGINEER #2**\
-Network partition?
+**RICHTER**
+“Some kind of” isn’t a diagnosis. It’s an apology wearing a fake mustache.
 
-**RICHTER**\
-If only it were that sexy.
+He pulls logs faster than humans should be able to read.
 
-He scrolls through logs at superhuman speed.
+**ENGINEER #2**
+Could be a network partition.
 
-**ENGINEER #3**\
+**RICHTER**
+Could be the ghost of punch cards past. Next!
+
+They volley theories. Richter smashes them down.
+
+**ENGINEER #3**
 Memory leak?
 
-**RICHTER**\
-You don't believe that. I don't believe that. The servers don't believe
-that. Let's all agree to stop lying.
+**RICHTER**
+Too slow. Spikes are too sharp. Also your face says you don’t believe your own theory.
 
-------------------------------------------------------------------------
+**ENGINEER #3**
+I—I don’t.
 
-## **ACT II**
+**RICHTER**
+Good instincts. Terrible confidence. Work on that.
 
-**INT. SERVER AISLE -- LATER**
+He pace-types, circling the room like a shark wired on espresso.
 
-Richter moves between racks like a caffeinated ghost.
+---
 
-**RICHTER**\
-You and me, servers---we communicate. You scream. I listen. It's
-healthier than most relationships.
+# **ACT II**
 
-He yanks a panel off.
+**INT. SERVER AISLE – LATER**
 
-**ENGINEER #1**\
-We shouldn't touch hardware until---
+Richter now stalks physical machines, muttering at them.
 
-**RICHTER**\
----until it asks politely? Pass.
+**RICHTER**
+You talk to me. I talk to you. You don’t talk back. It’s how healthy relationships work.
 
-He attempts fix after fix. They fail. Pressure rises.
+He yanks a panel off; engineers wince.
 
-**CTO (VIA MONITOR)**\
+**ENGINEER #1**
+We shouldn’t touch hardware until—
+
+**RICHTER**
+Until what? It asks politely?
+
+He tries a fix. It fails. System worsens. Pressure mounts.
+
+**CTO (VIA MONITOR)**
 Richter, the CEO wants an update.
 
-**RICHTER**\
-Tell them: "Not my fault yet." Add a slightly threatening emoji.
+**RICHTER**
+Tell them: “Not my fault yet.” Add a smiley.
 
-**CTO**\
-...Which one?
+**CTO**
+A smiley?
 
-**RICHTER**\
-Dealer's choice.
+**RICHTER**
+A menacing one.
 
-------------------------------------------------------------------------
+He tries another fix. Nope. A third. Worse.
 
-## **ACT III**
+**ENGINEER #2**
+Maybe the database cluster—
 
-**INT. WAR ROOM -- LATER**
+**RICHTER**
+Database cluster is fine. I checked it thirty seconds ago. While talking to you. And eating a donut. A stale one.
+(beat)
+Focus!
 
-Richter draws diagrams at Mach 2.
+Servers beep angrily.
 
-**RICHTER**\
-Not the DB. Not the network. Not the kernel. Not the drivers.\
-So what's left?
+---
 
-The room holds its breath.
+# **ACT III**
 
-He steps to the master console.
+**INT. WAR ROOM – EVEN LATER**
 
-Touches one key.
+Richter’s typing grows so fast the monitors flicker like they can’t keep up.
 
-Powers the entire system **OFF**.
+**ENGINEER #1**
+We’re out of ideas.
 
-Gasps erupt.
+**RICHTER**
+Good. Ideas were slowing us down.
 
-Then he powers it **ON**.
+He stops. Silence. Removes hands from keyboard. Walks to the whiteboard. Draws increasingly complex diagrams at Mach 2.
 
-Everything instantly stabilizes.
+**RICHTER**
+If it’s not the network… not the DB… not the kernel… not the drivers… what’s left?
 
-------------------------------------------------------------------------
+He freezes. Eyes narrow.
 
-## **ACT IV -- EPILOGUE**
+**Richter (softly)**
+Oh.
+Oh no.
+Oh yes.
 
-**INT. WAR ROOM -- CALM**
+Engineers lean in.
 
-**ENGINEER #3**\
-So what fixed it?
+**ENGINEER #2**
+What? What is it?
 
-**RICHTER**\
+Richter steps dramatically to the main console. The room holds its breath.
+
+He reaches out, touches a single key…
+
+…and **shuts the main system off**.
+
+Gasps. Panic.
+
+**ENGINEER #1**
+RICHTER, YOU CAN’T JUST—
+
+He turns it back on.
+
+The entire system stabilizes instantly. Alerts clear. Throughput normalizes.
+
+Everyone stares.
+
+---
+
+# **ACT IV — EPILOGUE**
+
+**INT. WAR ROOM – CALM AGAIN**
+
+Engineers clean up. Richter sips cold coffee with victorious nonchalance.
+
+**ENGINEER #3**
+So… what was the fix?
+
+**RICHTER**
+(dry)
 I turned it off and on again.
 
-They stare.
+Beat.
 
-**RICHTER**\
-Hey, simplicity is just complexity that's been bullied into submission.\
-See you all tomorrow.
+**ENGINEER #1**
+…Seriously?
 
-He walks out, typing invisibly in the air.
+**RICHTER**
+Everything is complicated. Humans panic. Servers overthink. But the universe? The universe loves simplicity.
+(beat)
+See you all tomorrow for more disaster.
+
+Richter walks out, fingers still typing invisible keystrokes.
 
 FADE OUT.
+
+ROLL CREDITS.
+
+---
+
+If you'd like:
+
+* a **series bible**
+* fleshed-out **recurring characters**
+* diagnostic “cases” for future episodes
+* or a **full hour-long teleplay format**
+
+…I can build it!
