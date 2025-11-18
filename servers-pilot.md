@@ -1,3 +1,11 @@
+ChatGPT --> Create a pilot episode script for a serial drama like "House" 
+only in an IT setting, and with Richter Dixon as the main guru diagnostician 
+who types faster than he can think, thinks faster than he can talk, and talks faster than you can listen! 
+He spends every episode trying 1 thing after another under increasing pressure and tension...
+until at the end he turns it off and then on again and that fixes it.
+
+---
+
 Below is a **pilot episode script** for a serial tech-drama in the style of *House*, starring your “guru diagnostician” **Richter Dixon**—the impossibly fast typer, faster thinker, and even faster talker.
 
 If you'd like a full teleplay format, character sheet, or follow-up episodes, I can expand it!
